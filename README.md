@@ -1,4 +1,6 @@
-## Go Ethereum
+## Go Ethereum Flashbots
+
+This fork has added functions for flashbots RPC calls, that's it
 
 Official Golang execution layer implementation of the Ethereum protocol.
 
